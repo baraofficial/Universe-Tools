@@ -31,8 +31,8 @@ const DashboardView = ({ onStart }: { onStart: () => void }) => {
       </div>
       
       <div className="text-center">
-        <h1 className="text-2xl md:text-4xl font-bold text-white">Selamat Datang di Tools Universe</h1>
-        <p className="text-purple-300 mt-2">15+ Tools AI Lengkap Siap Dipakai</p>
+        <h1 className="text-2xl md:text-4xl font-bold text-white">Selamat Datang di Tools Universe by Bara Official</h1>
+        <p className="text-purple-300 mt-2">15+ Tools Lengkap Siap Dipakai</p>
         <button 
           onClick={onStart}
           className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-500 hover:to-blue-500 px-8 py-3 rounded-xl font-semibold mt-4 shadow-lg hover:scale-105 transition text-white"
