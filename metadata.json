@@ -1,0 +1,8 @@
+{
+  "name": "Tools Universe AI",
+  "description": "A comprehensive suite of AI and utility tools including image processing, text generation, developer utilities, SEO analysis, and video tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
